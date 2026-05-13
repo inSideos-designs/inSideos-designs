@@ -13,13 +13,13 @@
   <img src="https://komarev.com/ghpvc/?username=inSideos-designs&style=flat&color=58A6FF" />
 </p>
 
-<p align="center"><em>CS student @ Georgia Tech — building at the intersection of AI, data, and real-world problems.</em></p>
+<p align="center"><em>Computational Data Analytics student @ Georgia Tech building at the intersection of AI, data, and real-world problems.</em></p>
 
 ---
 
 ### About
 
-- Georgia Tech — CS, focused on data analytics and ML systems
+- Georgia Tech MSA, focused on data analytics and ML systems
 - I build tools that get used: agent-powered MCP servers, live coaching desktops, data dashboards
 - Currently exploring: agentic LLM workflows, browser-automation testing, biotech data
 - Once wrote a Secure 2.0 XML parser for fun
