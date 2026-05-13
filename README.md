@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Siddheya 👋</h1>
+<h1 align="center">Siddheya Patade</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=Georgia+Tech+CS+%E2%9C%A6+Builder+%E2%9C%A6+Enthusiast;Shipping+AI+%2B+data+tools;Always+learning.+Always+building." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=560&lines=Georgia+Tech+CS;Builder+%2F+Enthusiast;Always+learning.+Always+building." alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,19 +13,20 @@
   <img src="https://komarev.com/ghpvc/?username=inSideos-designs&style=flat&color=58A6FF" />
 </p>
 
-<p align="center"><em>CS student @ Georgia Tech · building at the intersection of AI, data, and real-world problems.</em></p>
+<p align="center"><em>CS student @ Georgia Tech — building at the intersection of AI, data, and real-world problems.</em></p>
 
 ---
 
-### 🧠 About Me
-- 🎓 **Georgia Tech** — CS, focused on data analytics + ML systems
-- 🛠️ I like building tools that actually get used — agent-powered MCP servers, live coaching desktops, data dashboards
-- 🧪 Currently exploring: agentic LLM workflows, browser-automation testing, biotech data
-- ⚡ Fun fact: I once wrote a Secure 2.0 XML parser for fun
+### About
+
+- Georgia Tech — CS, focused on data analytics and ML systems
+- I build tools that get used: agent-powered MCP servers, live coaching desktops, data dashboards
+- Currently exploring: agentic LLM workflows, browser-automation testing, biotech data
+- Once wrote a Secure 2.0 XML parser for fun
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 **Languages**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
@@ -54,7 +55,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=inSideos-designs&show_icons=true&count_private=true&theme=github_dark&hide_border=true" />
@@ -74,7 +75,7 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -87,5 +88,3 @@
 ---
 
 <p align="center"><em>Always learning. Always building.</em></p>
-
-<!-- nudge profile cache -->
