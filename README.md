@@ -66,7 +66,23 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=inSideos-designs&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=inSideos-designs&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=20&margin-h=15" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=inSideos-designs&theme=react-dark&hide_border=true&area=true&radius=10" alt="activity graph" />
+</p>
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=inSideos-designs&theme=github_dark" />
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inSideos-designs&theme=github_dark" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=inSideos-designs&theme=github_dark" />
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=inSideos-designs&theme=github_dark&utcOffset=-5" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=inSideos-designs&theme=github_dark" />
 </p>
 
 <p align="center">
